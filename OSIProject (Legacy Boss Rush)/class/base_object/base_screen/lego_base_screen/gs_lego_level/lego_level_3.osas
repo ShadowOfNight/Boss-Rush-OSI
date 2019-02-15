@@ -338,6 +338,13 @@ begin class "lego_level_3", "gs_lego_level"
 		GetMemberFunctionString       "addmask"
 		JumpAbsolute                  3
 		Pop
+		GetVariableValueGlobalString  "globalclass"
+		GetMemberValueString          "player"
+		PushConstanti8                1
+		Pull                          2
+		GetMemberFunctionString       "addelement"
+		JumpAbsolute                  2
+		Pop
 		LineNumber                    92, 4
 		LineNumberAlt1                129, 152
 		GetVariableValueGlobalString  "globalclass"
@@ -553,6 +560,13 @@ begin class "lego_level_3", "gs_lego_level"
 		Pull                         3
 		GetMemberFunctionString      "addmask"
 		JumpAbsolute                 3
+		Pop
+		GetVariableValueGlobalString  "globalclass"
+		GetMemberValueString          "player"
+		PushConstanti8                1
+		Pull                          2
+		GetMemberFunctionString       "addelement"
+		JumpAbsolute                  2
 		Pop
 		PushNothing
 		Return
