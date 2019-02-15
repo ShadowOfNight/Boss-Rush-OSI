@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A13E84AC-DA16-43B6-93AD-4C72A8404633}") = "OSIProject", "OSIProject (Legacy)\OSIProject.osiproj", "{AC176693-E464-45E3-B12F-834869A6C161}"
+Project("{A13E84AC-DA16-43B6-93AD-4C72A8404633}") = "OSIProject", "OSIProject (Legacy Boss Rush)\OSIProject.osiproj", "{AC176693-E464-45E3-B12F-834869A6C161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
