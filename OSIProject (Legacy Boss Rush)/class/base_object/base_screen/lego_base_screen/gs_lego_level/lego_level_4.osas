@@ -9,7 +9,7 @@ begin class "lego_level_4", "gs_lego_level"
 		GetVariableValue            0                 ; local
 		PushConstantStringString    "lev4"
 		PushConstantStringString    "kopa"
-		PushConstantStringString    "strt"
+		PushConstantStringString    "boss"
 		GetThisMemberFunctionString "gs_lego_level"
 		JumpAbsolute                4
 		Pop

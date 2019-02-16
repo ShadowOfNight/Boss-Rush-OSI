@@ -58,7 +58,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "bech"
+	PushConstantStringString "mud0"
 	AppendToArray
 	AppendToArray
 	Dup
@@ -70,7 +70,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "mtup"
+	PushConstantStringString "hydr"
 	AppendToArray
 	AppendToArray
 	Dup
@@ -82,7 +82,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "mtup"
+	PushConstantStringString "boss"
 	AppendToArray
 	AppendToArray
 	Dup
@@ -94,7 +94,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "strt"
+	PushConstantStringString "boss"
 	AppendToArray
 	AppendToArray
 	Dup
@@ -106,7 +106,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "mtup"
+	PushConstantStringString "boss"
 	AppendToArray
 	AppendToArray
 	Dup
@@ -118,7 +118,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "mtup"
+	PushConstantStringString "boss"
 	AppendToArray
 	AppendToArray
 	Dup
@@ -130,7 +130,7 @@ begin function "createmenuobject", 0
 	Dup
 	CreateArray
 	Dup
-	PushConstantStringString "onua"
+	PushConstantStringString "tahu"
 	AppendToArray
 	AppendToArray
 	Dup
