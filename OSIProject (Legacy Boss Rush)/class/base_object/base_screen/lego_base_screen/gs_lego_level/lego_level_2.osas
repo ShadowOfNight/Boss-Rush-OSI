@@ -336,6 +336,12 @@ begin class "lego_level_2", "gs_lego_level"
 		GetMemberFunctionString       "addelement"
 		JumpAbsolute                  2
 		Pop
+		GetVariableValueGlobalString  "globalclass"
+		GetMemberValueString          "player"
+		Dup
+		GetMemberFunctionString       "setupgrapplinghook"
+		JumpAbsolute                  1
+		Pop
 		LineNumber                    58898, 4
 		LineNumberAlt1                94, 134
 		GetVariableValueGlobalString  "globalclass"
